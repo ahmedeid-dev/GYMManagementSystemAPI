@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "ahmed mu3ti",
+        "duration": {
+            "from": 12,
+            "to": 3
+        }
+    },
+    {
+        "id": 2,
+        "name": "bahnassy",
+        "duration": {
+            "from": 10,
+            "to": 2
+        }
+    },
+    {
+        "name": "ali",
+        "duration": {
+            "from": 8,
+            "to": 1
+        },
+        "id": 3
+    }
+]
